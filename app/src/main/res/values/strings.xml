@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BiharInnovation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="address">
+        <br>Ara Garden Road, Jagdeo Path, opp. Pillar no-4 \n</br>
+        <br>Patna,</br>
+        <br> Bihar 800014\n</br>
+        <br>\n</br>
+        <br>Contact no: +916127966092\n\n</br>
+        <br>Mail id: info@biharinnovation.com\n</br>
+        <br>\n</br>
+        <br><b>Visiting Hours\n </b></br>
+        <br>Open Mon-Sat</br> <br> 09:00 am – 05:00 pm\n</br></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_members">members</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
